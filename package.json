@@ -2,7 +2,7 @@
   "name": "@epic/epic-button",
   "version": "1.0.0",
   "description": "Epic button for your react project.",
-  "repository": "https://github.com/abdelhadidevv/epic-button.git",
+  "repository": "https://github.com/abdelhadidevv/epic-button",
   "keywords": [
     "epic-button",
     "button"
@@ -40,5 +40,8 @@
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "18.2.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/abdelhadidevv"
   }
 }
