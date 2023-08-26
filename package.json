@@ -2,7 +2,7 @@
   "name": "@epic/button",
   "version": "1.0.0",
   "description": "Epic button for your react project.",
-  "repository": "https://github.com/abdelhadidevv/epic-button",
+  "repository": "https://github.com/abdelhadidevv/epic-button.git",
   "keywords": [
     "epic-button",
     "button"
